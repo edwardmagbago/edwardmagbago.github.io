@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Edward Magbago",
+    "description": "",
+    "home_page_url": "https://edwardmagbago.github.io",
+    "feed_url": "https://edwardmagbago.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "WIZMEDIA"
+    },
+    "items": [
+        {
+            "id": "https://edwardmagbago.github.io/homepage/",
+            "url": "https://edwardmagbago.github.io/homepage/",
+            "title": "Homepage",
+            "summary": "This is the homepage",
+            "content_html": "This is the homepage",
+            "image": "https://edwardmagbago.github.io/media/posts/1/",
+            "author": {
+                "name": "WIZMEDIA"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-21T11:23:19+08:00",
+            "date_modified": "2018-11-21T11:23:19+08:00"
+        }
+    ]
+}

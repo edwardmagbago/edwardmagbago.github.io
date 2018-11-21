@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Edward Magbago</title>
+    <link href="https://edwardmagbago.github.io/feed.xml" rel="self" />
+    <link href="https://edwardmagbago.github.io" />
+    <updated>2018-11-21T11:23:39+08:00</updated>
+    <author>
+        <name>WIZMEDIA</name>
+    </author>
+    <id>https://edwardmagbago.github.io</id>
+
+    <entry>
+        <title>Homepage</title>
+        <author>
+            <name>WIZMEDIA</name>
+        </author>
+        <link href="https://edwardmagbago.github.io/homepage/"/>
+        <id>https://edwardmagbago.github.io/homepage/</id>
+
+        <updated>2018-11-21T11:23:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://edwardmagbago.github.io/media/posts/1/" alt="" />
+                    This is the homepage
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://edwardmagbago.github.io/media/posts/1/" alt="" />
+                This is the homepage
+            ]]>
+        </content>
+    </entry>
+</feed>
